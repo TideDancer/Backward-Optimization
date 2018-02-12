@@ -1,0 +1,5 @@
+mask/
+checkpoints/
+*.pyc/
+*.gz
+*.ipynb

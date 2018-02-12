@@ -1,0 +1,343 @@
+init train acc is 0.9807
+=================> iter 0 <===============
+1464
+diff at layer 1 is [ 0.69282031]
+neuron # is [ 52.] and sparsity is [ 0.51999998]
+-----------------------
+3212
+diff at layer 0 is [ 0.57735026]
+neuron # is [ 200.] and sparsity is [ 0.66666669]
+-----------------------
+3872
+input diff is [ 0.64483821]
+input # is [ 458.] and sparsity is [ 0.58418369]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9741)]
+w sparsity level = [ 0.62930125]
+ ======================================================================== 
+=================> iter 1 <===============
+1425
+diff at layer 1 is [ 0.19611613]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+3573
+diff at layer 0 is [ 0.56862402]
+neuron # is [ 203.] and sparsity is [ 0.67666668]
+-----------------------
+6152
+input diff is [ 0.69307238]
+input # is [ 434.] and sparsity is [ 0.5535714]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9734)]
+w sparsity level = [ 0.63711119]
+ ======================================================================== 
+=================> iter 2 <===============
+1552
+diff at layer 1 is [ 0.24494897]
+neuron # is [ 53.] and sparsity is [ 0.52999997]
+-----------------------
+2718
+diff at layer 0 is [ 0.57154757]
+neuron # is [ 202.] and sparsity is [ 0.67333335]
+-----------------------
+3726
+input diff is [ 0.65465367]
+input # is [ 454.] and sparsity is [ 0.57908165]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9741)]
+w sparsity level = [ 0.63637114]
+ ======================================================================== 
+=================> iter 3 <===============
+1190
+diff at layer 1 is [ 0.23791547]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+3077
+diff at layer 0 is [ 0.5859465]
+neuron # is [ 197.] and sparsity is [ 0.6566667]
+-----------------------
+5954
+input diff is [ 0.73909098]
+input # is [ 402.] and sparsity is [ 0.5127551]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9742)]
+w sparsity level = [ 0.61833584]
+ ======================================================================== 
+=================> iter 4 <===============
+1569
+diff at layer 1 is [ 0.2]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+3411
+diff at layer 0 is [ 0.5859465]
+neuron # is [ 197.] and sparsity is [ 0.6566667]
+-----------------------
+3059
+input diff is [ 0.88097632]
+input # is [ 440.] and sparsity is [ 0.56122446]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9749)]
+w sparsity level = [ 0.61833584]
+ ======================================================================== 
+=================> iter 5 <===============
+1475
+diff at layer 1 is [ 0.2]
+neuron # is [ 52.] and sparsity is [ 0.51999998]
+-----------------------
+2702
+diff at layer 0 is [ 0.56273144]
+neuron # is [ 205.] and sparsity is [ 0.68333334]
+-----------------------
+6278
+input diff is [ 0.53086549]
+input # is [ 446.] and sparsity is [ 0.56887758]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9743)]
+w sparsity level = [ 0.64498496]
+ ======================================================================== 
+=================> iter 6 <===============
+1172
+diff at layer 1 is [ 0.19611613]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+1990
+diff at layer 0 is [ 0.56568539]
+neuron # is [ 204.] and sparsity is [ 0.68000001]
+-----------------------
+3695
+input diff is [ 0.50778693]
+input # is [ 455.] and sparsity is [ 0.58035713]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9746)]
+w sparsity level = [ 0.64024043]
+ ======================================================================== 
+=================> iter 7 <===============
+2238
+diff at layer 1 is [ 0.2]
+neuron # is [ 52.] and sparsity is [ 0.51999998]
+-----------------------
+2649
+diff at layer 0 is [ 0.56862402]
+neuron # is [ 203.] and sparsity is [ 0.67666668]
+-----------------------
+4787
+input diff is [ 0.59669423]
+input # is [ 423.] and sparsity is [ 0.53954083]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9753)]
+w sparsity level = [ 0.63871151]
+ ======================================================================== 
+=================> iter 8 <===============
+1198
+diff at layer 1 is [ 0.13867505]
+neuron # is [ 51.] and sparsity is [ 0.50999999]
+-----------------------
+2479
+diff at layer 0 is [ 0.56862402]
+neuron # is [ 203.] and sparsity is [ 0.67666668]
+-----------------------
+2530
+input diff is [ 0.65051353]
+input # is [ 440.] and sparsity is [ 0.56122446]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9753)]
+w sparsity level = [ 0.63791132]
+ ======================================================================== 
+=================> iter 9 <===============
+1231
+diff at layer 1 is [ 0.14002801]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+2369
+diff at layer 0 is [ 0.56273144]
+neuron # is [ 205.] and sparsity is [ 0.68333334]
+-----------------------
+3451
+input diff is [ 0.59734261]
+input # is [ 445.] and sparsity is [ 0.56760204]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9753)]
+w sparsity level = [ 0.64336967]
+ ======================================================================== 
+=================> iter 10 <===============
+1332
+diff at layer 1 is [ 0.2]
+neuron # is [ 52.] and sparsity is [ 0.51999998]
+-----------------------
+3078
+diff at layer 0 is [ 0.56273144]
+neuron # is [ 205.] and sparsity is [ 0.68333334]
+-----------------------
+5463
+input diff is [ 0.46204239]
+input # is [ 448.] and sparsity is [ 0.5714286]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9754)]
+w sparsity level = [ 0.64498496]
+ ======================================================================== 
+=================> iter 11 <===============
+2015
+diff at layer 1 is [ 0.24019223]
+neuron # is [ 51.] and sparsity is [ 0.50999999]
+-----------------------
+2753
+diff at layer 0 is [ 0.57154757]
+neuron # is [ 202.] and sparsity is [ 0.67333335]
+-----------------------
+2281
+input diff is [ 0.7734431]
+input # is [ 420.] and sparsity is [ 0.53571427]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9755)]
+w sparsity level = [ 0.63477838]
+ ======================================================================== 
+=================> iter 12 <===============
+1260
+diff at layer 1 is [ 0.14002801]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+3815
+diff at layer 0 is [ 0.55976188]
+neuron # is [ 206.] and sparsity is [ 0.68666667]
+-----------------------
+3433
+input diff is [ 0.85634881]
+input # is [ 444.] and sparsity is [ 0.56632656]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9757)]
+w sparsity level = [ 0.64649886]
+ ======================================================================== 
+=================> iter 13 <===============
+1358
+diff at layer 1 is [ 0.2]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+2727
+diff at layer 0 is [ 0.57154757]
+neuron # is [ 202.] and sparsity is [ 0.67333335]
+-----------------------
+3685
+input diff is [ 0.50892925]
+input # is [ 439.] and sparsity is [ 0.55994898]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9748)]
+w sparsity level = [ 0.63398194]
+ ======================================================================== 
+=================> iter 14 <===============
+1325
+diff at layer 1 is [ 0.28284273]
+neuron # is [ 52.] and sparsity is [ 0.51999998]
+-----------------------
+3667
+diff at layer 0 is [ 0.55976188]
+neuron # is [ 206.] and sparsity is [ 0.68666667]
+-----------------------
+2662
+input diff is [ 0.7957747]
+input # is [ 415.] and sparsity is [ 0.52933675]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9748)]
+w sparsity level = [ 0.64812171]
+ ======================================================================== 
+=================> iter 15 <===============
+1194
+diff at layer 1 is [ 0.24019223]
+neuron # is [ 49.] and sparsity is [ 0.49000001]
+-----------------------
+2306
+diff at layer 0 is [ 0.56273144]
+neuron # is [ 205.] and sparsity is [ 0.68333334]
+-----------------------
+2785
+input diff is [ 0.81993234]
+input # is [ 436.] and sparsity is [ 0.55612242]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9754)]
+w sparsity level = [ 0.64256197]
+ ======================================================================== 
+=================> iter 16 <===============
+2027
+diff at layer 1 is [ 0.14285715]
+neuron # is [ 50.] and sparsity is [ 0.5]
+-----------------------
+3797
+diff at layer 0 is [ 0.56568539]
+neuron # is [ 204.] and sparsity is [ 0.68000001]
+-----------------------
+3781
+input diff is [ 0.50228834]
+input # is [ 430.] and sparsity is [ 0.54846936]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.975)]
+w sparsity level = [ 0.64024043]
+ ======================================================================== 
+=================> iter 17 <===============
+1625
+diff at layer 1 is [ 0.14142136]
+neuron # is [ 51.] and sparsity is [ 0.50999999]
+-----------------------
+2436
+diff at layer 0 is [ 0.55976188]
+neuron # is [ 206.] and sparsity is [ 0.68666667]
+-----------------------
+6306
+input diff is [ 0.43401855]
+input # is [ 443.] and sparsity is [ 0.56505102]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9749)]
+w sparsity level = [ 0.64731032]
+ ======================================================================== 
+=================> iter 18 <===============
+2252
+diff at layer 1 is [ 0.1980295]
+neuron # is [ 51.] and sparsity is [ 0.50999999]
+-----------------------
+2284
+diff at layer 0 is [ 0.55976188]
+neuron # is [ 206.] and sparsity is [ 0.68666667]
+-----------------------
+3990
+input diff is [ 0.57995093]
+input # is [ 446.] and sparsity is [ 0.56887758]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9755)]
+w sparsity level = [ 0.64731032]
+ ======================================================================== 
+=================> iter 19 <===============
+1166
+diff at layer 1 is [ 0.1980295]
+neuron # is [ 51.] and sparsity is [ 0.50999999]
+-----------------------
+3254
+diff at layer 0 is [ 0.56273144]
+neuron # is [ 205.] and sparsity is [ 0.68333334]
+-----------------------
+3689
+input diff is [ 0.52086508]
+input # is [ 435.] and sparsity is [ 0.55484694]
+--------------- finish backward ----------------
+----------- finish forward step ------------
+[('accuracy', 0.9754)]
+w sparsity level = [ 0.64417732]
+ ======================================================================== 
+[('accuracy', 0.9754)]
+----------- finish post step ------------
